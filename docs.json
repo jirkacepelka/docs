@@ -54,16 +54,44 @@
             "group": "Struktura strany",
             "pages": [
               "struktura/organy-strany",
-              "struktura/mistni-skupiny",
               "struktura/rozhodovani"
             ]
           },
           {
-            "group": "Komunikace",
+            "group": "Přehled programu",
             "pages": [
-              "komunikace/kanaly-a-nastroje",
-              "komunikace/media-a-pr",
-              "komunikace/socialni-site"
+              {
+                "group": "Parlament/Senát",
+                "pages": [
+                  "duchodova-reforma",
+                  "zruseni-vyjjimky",
+                  "zruseni-poplatku-osa",
+                  {
+                    "group": "Rušení národních dotací",
+                    "pages": []
+                  },
+                  {
+                    "group": "Rušení/Slučovní ministerstev",
+                    "pages": []
+                  },
+                  "untitled-page",
+                  "konec-valky-proti-psychotropnim-latkam",
+                  "privatizace-ct-cro",
+                  "reforma-zdravotnictvi",
+                  "zjednoduseni-zakoniku-prace",
+                  "privatizace-narodnich-podniku",
+                  "politika-nezamestnanosti",
+                  "omezeni-pravomoci-pamatkaru"
+                ]
+              },
+              {
+                "group": "Evropská Unie",
+                "pages": []
+              },
+              {
+                "group": "Komunální politika",
+                "pages": []
+              }
             ]
           },
           {
