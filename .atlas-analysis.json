@@ -1,24 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "projectType": "general",
+  "projectName": "Voluntia",
+  "projectDescription": "Příručka pro členy, příznivce a dobrovolníky libertariánské strany Voluntia — vše, co potřebujete vědět o hodnotách strany, členství a zapojení.",
   "theme": "almond",
-  "name": "Voluntia",
-  "colors": {
-    "primary": "#FED701",
-    "light": "#eec9bc",
-    "dark": "#4fa1ab"
-  },
-  "favicon": "/favicon.svg",
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "primary": {
-      "type": "button",
-      "label": "Vstoupit do strany",
-      "href": "https://voluntia.cz"
-    }
-  },
+  "primaryColor": "#FED701",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
   "navigation": {
     "tabs": [
       {
@@ -27,7 +14,6 @@
           {
             "group": "Úvod",
             "pages": [
-              "index",
               "uvod/o-voluntii",
               "uvod/nase-hodnoty",
               "uvod/jak-fungujeme"
@@ -78,10 +64,13 @@
       }
     ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/voluntia_cz",
-      "facebook": "https://facebook.com/voluntia.cz"
-    }
-  }
+  "keyFeatures": [
+    "Jasný popis hodnot a programu libertariánské strany Voluntia",
+    "Průvodce procesem přihlášení a správy členství",
+    "Přehled možností dobrovolnické a aktivistické činnosti",
+    "Popis vnitřní struktury a fungování strany",
+    "Návod na zapojení do kampaní a stranických akcí",
+    "Přehled komunikačních kanálů a nástrojů"
+  ],
+  "publicApiSurface": []
 }
