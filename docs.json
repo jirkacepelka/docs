@@ -74,19 +74,45 @@
                     "group": "Rušení/Slučovní ministerstev",
                     "pages": []
                   },
-                  "untitled-page",
                   "konec-valky-proti-psychotropnim-latkam",
                   "privatizace-ct-cro",
                   "reforma-zdravotnictvi",
                   "zjednoduseni-zakoniku-prace",
                   "privatizace-narodnich-podniku",
                   "politika-nezamestnanosti",
-                  "omezeni-pravomoci-pamatkaru"
+                  "omezeni-pravomoci-pamatkaru",
+                  "uprava-lustracniho-zakona"
                 ]
               },
               {
                 "group": "Evropská Unie",
-                "pages": []
+                "pages": [
+                  {
+                    "group": "Green deal",
+                    "pages": [
+                      "zruseni-zakazu-spalocacich-motoru",
+                      "redistribuce-poplatku-ets-2-do-rozpoctu-clenskych-statu"
+                    ]
+                  },
+                  "zruseni-dotaci",
+                  "zruseni-cel",
+                  "zruseni-chat-control-1-0",
+                  "reforma-zrychleneho-rizeni-pr-ijmani-zakonu",
+                  "omezeni-trvani",
+                  "zruseni-omezeni-daneni-dph",
+                  "snizeni-prispevku-clenskych-statu",
+                  "sjednoceni",
+                  "jednotne-online",
+                  {
+                    "group": "ECB",
+                    "pages": [
+                      "prisnejsi-vynucovani-pravidel-o-rozpoctove-odpovednosti",
+                      "cbcd"
+                    ]
+                  },
+                  "zajisteni-prava-svobody-vyvoje-digitalnich-aplikaci",
+                  "zjednoduseni"
+                ]
               },
               {
                 "group": "Komunální politika",
