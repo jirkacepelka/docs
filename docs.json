@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#FED701",
     "light": "#eec9bc",
-    "dark": "#4fa1ab"
+    "dark": "#FED701"
   },
   "favicon": "/favicon.svg",
   "logo": {
@@ -36,25 +36,13 @@
           {
             "group": "Členství",
             "pages": [
-              "clenstvi/jak-se-stat-clenem",
               "clenstvi/clenske-prispevky",
               "clenstvi/prava-a-povinnosti",
-              "clenstvi/ukonceni-clenstvi"
-            ]
-          },
-          {
-            "group": "Dobrovolnictví",
-            "pages": [
-              "dobrovolnictvi/jak-pomoci",
-              "dobrovolnictvi/typy-cinnosti",
-              "dobrovolnictvi/kampane-a-akce"
-            ]
-          },
-          {
-            "group": "Struktura strany",
-            "pages": [
-              "struktura/organy-strany",
-              "struktura/rozhodovani"
+              "clenstvi/ukonceni-clenstvi",
+              "clenstvi/schuze",
+              "clenstvi/konklave",
+              "clenstvi/funkce",
+              "clenstvi/tymy"
             ]
           },
           {
@@ -118,14 +106,6 @@
                 "group": "Komunální politika",
                 "pages": []
               }
-            ]
-          },
-          {
-            "group": "Časté dotazy",
-            "pages": [
-              "faq/obecne-dotazy",
-              "faq/clenstvi-faq",
-              "faq/dobrovolnictvi-faq"
             ]
           }
         ]
