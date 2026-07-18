@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#FED701",
     "light": "#eec9bc",
-    "dark": "#FED701"
+    "dark": "#000000"
   },
   "favicon": "/favicon.svg",
   "logo": {
@@ -116,6 +116,11 @@
     "socials": {
       "x": "https://x.com/voluntia_cz",
       "facebook": "https://facebook.com/voluntia.cz"
+    }
+  },
+  "background": {
+    "color": {
+      "dark": "#121212"
     }
   }
 }
