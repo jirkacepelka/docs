@@ -51,24 +51,43 @@
               {
                 "group": "Parlament/Senát",
                 "pages": [
-                  "duchodova-reforma",
-                  "zruseni-poplatku-osa",
-                  {
-                    "group": "Rušení národních dotací",
-                    "pages": []
-                  },
-                  {
-                    "group": "Rušení/Slučovní ministerstev",
-                    "pages": []
-                  },
-                  "konec-valky-proti-psychotropnim-latkam",
-                  "privatizace-ct-cro",
                   "reforma-zdravotnictvi",
-                  "zjednoduseni-zakoniku-prace",
-                  "privatizace-narodnich-podniku",
-                  "politika-nezamestnanosti",
-                  "omezeni-pravomoci-pamatkaru",
-                  "uprava-lustracniho-zakona"
+                  {
+                    "group": "Ekonomika",
+                    "pages": [
+                      "politika-nezamestnanosti",
+                      "privatizace-narodnich-podniku",
+                      "zjednoduseni-zakoniku-prace",
+                      "duchodova-reforma",
+                      {
+                        "group": "Rušení národních dotací",
+                        "pages": []
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Státní správa",
+                    "pages": [
+                      "uprava-lustracniho-zakona",
+                      "privatizace-ct-cro",
+                      "untitled-page",
+                      "untitled-page-2",
+                      "zruseni-poplatku-osa",
+                      "untitled-page-3"
+                    ]
+                  },
+                  {
+                    "group": "Sociální oblast",
+                    "pages": [
+                      "konec-valky-proti-psychotropnim-latkam"
+                    ]
+                  },
+                  {
+                    "group": "Výstavba",
+                    "pages": [
+                      "omezeni-pravomoci-pamatkaru"
+                    ]
+                  }
                 ]
               },
               {
