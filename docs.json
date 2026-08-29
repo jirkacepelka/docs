@@ -51,7 +51,6 @@
               {
                 "group": "Parlament/Senát",
                 "pages": [
-                  "reforma-zdravotnictvi",
                   {
                     "group": "Ekonomika",
                     "pages": [
@@ -59,35 +58,51 @@
                       "privatizace-narodnich-podniku",
                       "zjednoduseni-zakoniku-prace",
                       "duchodova-reforma",
-                      {
-                        "group": "Rušení národních dotací",
-                        "pages": []
-                      }
+                      "untitled-page-22"
                     ]
                   },
                   {
                     "group": "Státní správa",
                     "pages": [
-                      "uprava-lustracniho-zakona",
                       "privatizace-ct-cro",
                       "untitled-page",
                       "untitled-page-2",
                       "zruseni-poplatku-osa",
-                      "untitled-page-3"
+                      "untitled-page-18",
+                      "untitled-page-19",
+                      "untitled-page-20",
+                      "untitled-page-21",
+                      "uprava-lustracniho-zakona"
                     ]
                   },
                   {
                     "group": "Sociální oblast",
                     "pages": [
-                      "konec-valky-proti-psychotropnim-latkam"
+                      "untitled-page-6",
+                      "untitled-page-3",
+                      "konec-valky-proti-psychotropnim-latkam",
+                      "untitled-page-4",
+                      "untitled-page-5",
+                      "untitled-page-15",
+                      "untitled-page-16"
                     ]
                   },
                   {
-                    "group": "Výstavba",
+                    "group": "Denimbyzace a deregulace výstavby",
                     "pages": [
-                      "omezeni-pravomoci-pamatkaru"
+                      "omezeni-pravomoci-pamatkaru",
+                      "untitled-page-7",
+                      "untitled-page-8",
+                      "untitled-page-9",
+                      "untitled-page-10",
+                      "untitled-page-11",
+                      "untitled-page-12",
+                      "untitled-page-13",
+                      "untitled-page-14"
                     ]
-                  }
+                  },
+                  "reforma-zdravotnictvi",
+                  "untitled-page-17"
                 ]
               },
               {
